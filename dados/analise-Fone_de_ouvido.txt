@@ -1,0 +1,11 @@
+Nome do Produto: Fone Bluetooth XYZ
+Resumo das Avaliações: O fone oferece boa qualidade sonora e cancelamento de ruído eficiente em avaliações positivas, mas apresenta problemas de durabilidade e volume baixo em críticas negativas. O conforto é mencionado como razoável, porém o material é considerado frágil. Opiniões se dividem entre custo-benefício e falhas técnicas.
+Sentimento Geral: Neutro
+Pontos fortes:
+- Qualidade sonora com graves potentes e agudos nítidos
+- Cancelamento de ruído eficiente
+- Conexão Bluetooth estável em boa parte do tempo
+Pontos fracos:
+- Durabilidade insuficiente, falhas após uso curto
+- Volume máximo baixo em ambientes barulhentos
+- Material do produto percebido como frágil
